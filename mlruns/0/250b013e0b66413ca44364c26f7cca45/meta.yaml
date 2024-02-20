@@ -1,0 +1,15 @@
+artifact_uri: file:///home/chaz/Project-Build-an-ML-Pipeline-Starter/mlruns/0/250b013e0b66413ca44364c26f7cca45/artifacts
+end_time: 1708443142450
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 250b013e0b66413ca44364c26f7cca45
+run_name: abrasive-hawk-290
+run_uuid: 250b013e0b66413ca44364c26f7cca45
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708443093871
+status: 4
+tags: []
+user_id: chaz

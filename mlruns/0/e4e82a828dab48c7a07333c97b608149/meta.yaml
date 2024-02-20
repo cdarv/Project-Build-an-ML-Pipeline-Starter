@@ -1,0 +1,15 @@
+artifact_uri: file:///home/chaz/Project-Build-an-ML-Pipeline-Starter/mlruns/0/e4e82a828dab48c7a07333c97b608149/artifacts
+end_time: 1708443142242
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e4e82a828dab48c7a07333c97b608149
+run_name: clumsy-perch-561
+run_uuid: e4e82a828dab48c7a07333c97b608149
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708443130792
+status: 4
+tags: []
+user_id: chaz
