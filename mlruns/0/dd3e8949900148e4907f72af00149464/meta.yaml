@@ -1,0 +1,15 @@
+artifact_uri: file:///home/chaz/Project-Build-an-ML-Pipeline-Starter/mlruns/0/dd3e8949900148e4907f72af00149464/artifacts
+end_time: 1708401775236
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: dd3e8949900148e4907f72af00149464
+run_name: trusting-ape-933
+run_uuid: dd3e8949900148e4907f72af00149464
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708401753291
+status: 3
+tags: []
+user_id: chaz

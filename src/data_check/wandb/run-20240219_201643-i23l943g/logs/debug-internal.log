@@ -1,0 +1,174 @@
+2024-02-19 20:16:43,623 INFO    StreamThr :5318 [internal.py:wandb_internal():87] W&B internal server running at pid: 5318, started at: 2024-02-19 20:16:43.623433
+2024-02-19 20:16:43,625 DEBUG   HandlerThread:5318 [handler.py:handle_request():144] handle_request: status
+2024-02-19 20:16:43,626 INFO    WriterThread:5318 [datastore.py:open_for_write():85] open: /home/chaz/Project-Build-an-ML-Pipeline-Starter/src/data_check/wandb/run-20240219_201643-i23l943g/run-i23l943g.wandb
+2024-02-19 20:16:43,627 DEBUG   SenderThread:5318 [sender.py:send():334] send: header
+2024-02-19 20:16:43,631 DEBUG   SenderThread:5318 [sender.py:send():334] send: run
+2024-02-19 20:16:43,632 INFO    SenderThread:5318 [sender.py:_maybe_setup_resume():721] checking resume status for None/nyc_airbnb/i23l943g
+2024-02-19 20:16:44,128 INFO    SenderThread:5318 [dir_watcher.py:__init__():216] watching files in: /home/chaz/Project-Build-an-ML-Pipeline-Starter/src/data_check/wandb/run-20240219_201643-i23l943g/files
+2024-02-19 20:16:44,128 INFO    SenderThread:5318 [sender.py:_start_run_threads():1065] run started: i23l943g with start time 1708391803.623541
+2024-02-19 20:16:44,128 DEBUG   SenderThread:5318 [sender.py:send_request():361] send_request: summary_record
+2024-02-19 20:16:44,128 INFO    SenderThread:5318 [sender.py:_save_file():1319] saving file wandb-summary.json with policy end
+2024-02-19 20:16:44,129 DEBUG   HandlerThread:5318 [handler.py:handle_request():144] handle_request: check_version
+2024-02-19 20:16:44,129 DEBUG   SenderThread:5318 [sender.py:send_request():361] send_request: check_version
+2024-02-19 20:16:44,222 DEBUG   HandlerThread:5318 [handler.py:handle_request():144] handle_request: run_start
+2024-02-19 20:16:44,223 DEBUG   HandlerThread:5318 [system_info.py:__init__():31] System info init
+2024-02-19 20:16:44,223 DEBUG   HandlerThread:5318 [system_info.py:__init__():46] System info init done
+2024-02-19 20:16:44,223 INFO    HandlerThread:5318 [system_monitor.py:start():151] Starting system monitor
+2024-02-19 20:16:44,223 INFO    SystemMonitor:5318 [system_monitor.py:_start():116] Starting system asset monitoring threads
+2024-02-19 20:16:44,224 INFO    HandlerThread:5318 [system_monitor.py:probe():172] Collecting system info
+2024-02-19 20:16:44,224 INFO    SystemMonitor:5318 [interfaces.py:start():168] Started cpu
+2024-02-19 20:16:44,224 INFO    SystemMonitor:5318 [interfaces.py:start():168] Started disk
+2024-02-19 20:16:44,225 INFO    SystemMonitor:5318 [interfaces.py:start():168] Started memory
+2024-02-19 20:16:44,225 INFO    SystemMonitor:5318 [interfaces.py:start():168] Started network
+2024-02-19 20:16:44,234 DEBUG   HandlerThread:5318 [system_info.py:probe():195] Probing system
+2024-02-19 20:16:44,274 DEBUG   HandlerThread:5318 [system_info.py:_probe_git():180] Probing git
+2024-02-19 20:16:44,282 DEBUG   HandlerThread:5318 [system_info.py:_probe_git():188] Probing git done
+2024-02-19 20:16:44,282 DEBUG   HandlerThread:5318 [system_info.py:probe():241] Probing system done
+2024-02-19 20:16:44,282 DEBUG   HandlerThread:5318 [system_monitor.py:probe():181] {'os': 'Linux-5.15.133.1-microsoft-standard-WSL2-x86_64-with-glibc2.35', 'python': '3.9.18', 'heartbeatAt': '2024-02-20T01:16:44.234909', 'startedAt': '2024-02-20T01:16:43.619016', 'docker': None, 'cuda': None, 'args': ('.', '-vv', '--csv', 'clean_sample.csv:latest', '--ref', 'clean_sample.csv:reference', '--kl_threshold', '0.2', '--min_price', '10', '--max_price', '350'), 'state': 'running', 'program': '/home/chaz/miniconda3/envs/mlflow-af6473294b18f57ea960125076520147a7a4be59/bin/pytest', 'git': {'remote': 'https://github.com/cdarv/Project-Build-an-ML-Pipeline-Starter', 'commit': '077621b0ed54d88e8c2f5ef3dea7b725c4ea7c98'}, 'email': None, 'root': '/home/chaz/Project-Build-an-ML-Pipeline-Starter', 'host': 'DESKTOP-1H4PS8H', 'username': 'chaz', 'executable': '/home/chaz/miniconda3/envs/mlflow-af6473294b18f57ea960125076520147a7a4be59/bin/python', 'cpu_count': 32, 'cpu_count_logical': 64, 'cpu_freq': {'current': 3693.089999999997, 'min': 0.0, 'max': 0.0}, 'cpu_freq_per_core': [{'current': 3693.09, 'min': 0.0, 'max': 0.0}, {'current': 3693.09, 'min': 0.0, 'max': 0.0}, {'current': 3693.09, 'min': 0.0, 'max': 0.0}, {'current': 3693.09, 'min': 0.0, 'max': 0.0}, {'current': 3693.09, 'min': 0.0, 'max': 0.0}, {'current': 3693.09, 'min': 0.0, 'max': 0.0}, {'current': 3693.09, 'min': 0.0, 'max': 0.0}, {'current': 3693.09, 'min': 0.0, 'max': 0.0}, {'current': 3693.09, 'min': 0.0, 'max': 0.0}, {'current': 3693.09, 'min': 0.0, 'max': 0.0}, {'current': 3693.09, 'min': 0.0, 'max': 0.0}, {'current': 3693.09, 'min': 0.0, 'max': 0.0}, {'current': 3693.09, 'min': 0.0, 'max': 0.0}, {'current': 3693.09, 'min': 0.0, 'max': 0.0}, {'current': 3693.09, 'min': 0.0, 'max': 0.0}, {'current': 3693.09, 'min': 0.0, 'max': 0.0}, {'current': 3693.09, 'min': 0.0, 'max': 0.0}, {'current': 3693.09, 'min': 0.0, 'max': 0.0}, {'current': 3693.09, 'min': 0.0, 'max': 0.0}, {'current': 3693.09, 'min': 0.0, 'max': 0.0}, {'current': 3693.09, 'min': 0.0, 'max': 0.0}, {'current': 3693.09, 'min': 0.0, 'max': 0.0}, {'current': 3693.09, 'min': 0.0, 'max': 0.0}, {'current': 3693.09, 'min': 0.0, 'max': 0.0}, {'current': 3693.09, 'min': 0.0, 'max': 0.0}, {'current': 3693.09, 'min': 0.0, 'max': 0.0}, {'current': 3693.09, 'min': 0.0, 'max': 0.0}, {'current': 3693.09, 'min': 0.0, 'max': 0.0}, {'current': 3693.09, 'min': 0.0, 'max': 0.0}, {'current': 3693.09, 'min': 0.0, 'max': 0.0}, {'current': 3693.09, 'min': 0.0, 'max': 0.0}, {'current': 3693.09, 'min': 0.0, 'max': 0.0}, {'current': 3693.09, 'min': 0.0, 'max': 0.0}, {'current': 3693.09, 'min': 0.0, 'max': 0.0}, {'current': 3693.09, 'min': 0.0, 'max': 0.0}, {'current': 3693.09, 'min': 0.0, 'max': 0.0}, {'current': 3693.09, 'min': 0.0, 'max': 0.0}, {'current': 3693.09, 'min': 0.0, 'max': 0.0}, {'current': 3693.09, 'min': 0.0, 'max': 0.0}, {'current': 3693.09, 'min': 0.0, 'max': 0.0}, {'current': 3693.09, 'min': 0.0, 'max': 0.0}, {'current': 3693.09, 'min': 0.0, 'max': 0.0}, {'current': 3693.09, 'min': 0.0, 'max': 0.0}, {'current': 3693.09, 'min': 0.0, 'max': 0.0}, {'current': 3693.09, 'min': 0.0, 'max': 0.0}, {'current': 3693.09, 'min': 0.0, 'max': 0.0}, {'current': 3693.09, 'min': 0.0, 'max': 0.0}, {'current': 3693.09, 'min': 0.0, 'max': 0.0}, {'current': 3693.09, 'min': 0.0, 'max': 0.0}, {'current': 3693.09, 'min': 0.0, 'max': 0.0}, {'current': 3693.09, 'min': 0.0, 'max': 0.0}, {'current': 3693.09, 'min': 0.0, 'max': 0.0}, {'current': 3693.09, 'min': 0.0, 'max': 0.0}, {'current': 3693.09, 'min': 0.0, 'max': 0.0}, {'current': 3693.09, 'min': 0.0, 'max': 0.0}, {'current': 3693.09, 'min': 0.0, 'max': 0.0}, {'current': 3693.09, 'min': 0.0, 'max': 0.0}, {'current': 3693.09, 'min': 0.0, 'max': 0.0}, {'current': 3693.09, 'min': 0.0, 'max': 0.0}, {'current': 3693.09, 'min': 0.0, 'max': 0.0}, {'current': 3693.09, 'min': 0.0, 'max': 0.0}, {'current': 3693.09, 'min': 0.0, 'max': 0.0}, {'current': 3693.09, 'min': 0.0, 'max': 0.0}, {'current': 3693.09, 'min': 0.0, 'max': 0.0}], 'disk': {'total': 1006.853931427002, 'used': 12.14345932006836}, 'memory': {'total': 62.72468566894531}}
+2024-02-19 20:16:44,282 INFO    HandlerThread:5318 [system_monitor.py:probe():182] Finished collecting system info
+2024-02-19 20:16:44,282 INFO    HandlerThread:5318 [system_monitor.py:probe():185] Publishing system info
+2024-02-19 20:16:44,282 DEBUG   HandlerThread:5318 [system_info.py:_save_pip():51] Saving list of pip packages installed into the current environment
+2024-02-19 20:16:44,282 DEBUG   HandlerThread:5318 [system_info.py:_save_pip():67] Saving pip packages done
+2024-02-19 20:16:44,282 DEBUG   HandlerThread:5318 [system_info.py:_save_conda():74] Saving list of conda packages installed into the current environment
+2024-02-19 20:16:44,891 DEBUG   HandlerThread:5318 [system_info.py:_save_conda():86] Saving conda packages done
+2024-02-19 20:16:44,892 INFO    HandlerThread:5318 [system_monitor.py:probe():187] Finished publishing system info
+2024-02-19 20:16:44,893 DEBUG   SenderThread:5318 [sender.py:send():334] send: files
+2024-02-19 20:16:44,894 INFO    SenderThread:5318 [sender.py:_save_file():1319] saving file wandb-metadata.json with policy now
+2024-02-19 20:16:44,897 DEBUG   HandlerThread:5318 [handler.py:handle_request():144] handle_request: stop_status
+2024-02-19 20:16:44,897 DEBUG   SenderThread:5318 [sender.py:send_request():361] send_request: stop_status
+2024-02-19 20:16:45,031 DEBUG   SenderThread:5318 [sender.py:send():334] send: telemetry
+2024-02-19 20:16:45,129 INFO    Thread-13 :5318 [dir_watcher.py:_on_file_created():275] file/dir created: /home/chaz/Project-Build-an-ML-Pipeline-Starter/src/data_check/wandb/run-20240219_201643-i23l943g/files/wandb-metadata.json
+2024-02-19 20:16:45,129 INFO    Thread-13 :5318 [dir_watcher.py:_on_file_created():275] file/dir created: /home/chaz/Project-Build-an-ML-Pipeline-Starter/src/data_check/wandb/run-20240219_201643-i23l943g/files/conda-environment.yaml
+2024-02-19 20:16:45,129 INFO    Thread-13 :5318 [dir_watcher.py:_on_file_created():275] file/dir created: /home/chaz/Project-Build-an-ML-Pipeline-Starter/src/data_check/wandb/run-20240219_201643-i23l943g/files/requirements.txt
+2024-02-19 20:16:45,129 INFO    Thread-13 :5318 [dir_watcher.py:_on_file_created():275] file/dir created: /home/chaz/Project-Build-an-ML-Pipeline-Starter/src/data_check/wandb/run-20240219_201643-i23l943g/files/wandb-summary.json
+2024-02-19 20:16:45,249 DEBUG   SenderThread:5318 [sender.py:send():334] send: use_artifact
+2024-02-19 20:16:45,302 INFO    Thread-16 :5318 [upload_job.py:push():143] Uploaded file /tmp/tmpqhykr6r7wandb/zs7q7o7y-wandb-metadata.json
+2024-02-19 20:16:45,497 DEBUG   SenderThread:5318 [sender.py:send():334] send: telemetry
+2024-02-19 20:16:45,859 DEBUG   SenderThread:5318 [sender.py:send():334] send: use_artifact
+2024-02-19 20:16:46,094 DEBUG   SenderThread:5318 [sender.py:send():334] send: exit
+2024-02-19 20:16:46,094 INFO    SenderThread:5318 [sender.py:send_exit():557] handling exit code: 0
+2024-02-19 20:16:46,095 INFO    SenderThread:5318 [sender.py:send_exit():559] handling runtime: 1
+2024-02-19 20:16:46,095 INFO    SenderThread:5318 [sender.py:_save_file():1319] saving file wandb-summary.json with policy end
+2024-02-19 20:16:46,095 INFO    SenderThread:5318 [sender.py:send_exit():565] send defer
+2024-02-19 20:16:46,095 DEBUG   HandlerThread:5318 [handler.py:handle_request():144] handle_request: defer
+2024-02-19 20:16:46,095 INFO    HandlerThread:5318 [handler.py:handle_request_defer():170] handle defer: 0
+2024-02-19 20:16:46,095 DEBUG   SenderThread:5318 [sender.py:send_request():361] send_request: defer
+2024-02-19 20:16:46,095 INFO    SenderThread:5318 [sender.py:send_request_defer():581] handle sender defer: 0
+2024-02-19 20:16:46,095 INFO    SenderThread:5318 [sender.py:transition_state():585] send defer: 1
+2024-02-19 20:16:46,095 DEBUG   HandlerThread:5318 [handler.py:handle_request():144] handle_request: defer
+2024-02-19 20:16:46,095 INFO    HandlerThread:5318 [handler.py:handle_request_defer():170] handle defer: 1
+2024-02-19 20:16:46,096 DEBUG   SenderThread:5318 [sender.py:send_request():361] send_request: defer
+2024-02-19 20:16:46,096 INFO    SenderThread:5318 [sender.py:send_request_defer():581] handle sender defer: 1
+2024-02-19 20:16:46,096 INFO    SenderThread:5318 [sender.py:transition_state():585] send defer: 2
+2024-02-19 20:16:46,096 DEBUG   HandlerThread:5318 [handler.py:handle_request():144] handle_request: defer
+2024-02-19 20:16:46,096 INFO    HandlerThread:5318 [handler.py:handle_request_defer():170] handle defer: 2
+2024-02-19 20:16:46,096 INFO    HandlerThread:5318 [system_monitor.py:finish():161] Stopping system monitor
+2024-02-19 20:16:46,097 DEBUG   SystemMonitor:5318 [system_monitor.py:_start():130] Starting system metrics aggregation loop
+2024-02-19 20:16:46,097 DEBUG   SystemMonitor:5318 [system_monitor.py:_start():137] Finished system metrics aggregation loop
+2024-02-19 20:16:46,097 DEBUG   SystemMonitor:5318 [system_monitor.py:_start():141] Publishing last batch of metrics
+2024-02-19 20:16:46,098 INFO    HandlerThread:5318 [interfaces.py:finish():175] Joined cpu
+2024-02-19 20:16:46,098 INFO    HandlerThread:5318 [interfaces.py:finish():175] Joined disk
+2024-02-19 20:16:46,098 INFO    HandlerThread:5318 [interfaces.py:finish():175] Joined memory
+2024-02-19 20:16:46,098 INFO    HandlerThread:5318 [interfaces.py:finish():175] Joined network
+2024-02-19 20:16:46,098 DEBUG   SenderThread:5318 [sender.py:send_request():361] send_request: defer
+2024-02-19 20:16:46,098 INFO    SenderThread:5318 [sender.py:send_request_defer():581] handle sender defer: 2
+2024-02-19 20:16:46,098 INFO    SenderThread:5318 [sender.py:transition_state():585] send defer: 3
+2024-02-19 20:16:46,099 DEBUG   SenderThread:5318 [sender.py:send():334] send: stats
+2024-02-19 20:16:46,099 DEBUG   HandlerThread:5318 [handler.py:handle_request():144] handle_request: defer
+2024-02-19 20:16:46,099 INFO    HandlerThread:5318 [handler.py:handle_request_defer():170] handle defer: 3
+2024-02-19 20:16:46,099 DEBUG   SenderThread:5318 [sender.py:send_request():361] send_request: defer
+2024-02-19 20:16:46,099 INFO    SenderThread:5318 [sender.py:send_request_defer():581] handle sender defer: 3
+2024-02-19 20:16:46,099 INFO    SenderThread:5318 [sender.py:transition_state():585] send defer: 4
+2024-02-19 20:16:46,100 DEBUG   HandlerThread:5318 [handler.py:handle_request():144] handle_request: defer
+2024-02-19 20:16:46,100 INFO    HandlerThread:5318 [handler.py:handle_request_defer():170] handle defer: 4
+2024-02-19 20:16:46,100 DEBUG   SenderThread:5318 [sender.py:send_request():361] send_request: defer
+2024-02-19 20:16:46,100 INFO    SenderThread:5318 [sender.py:send_request_defer():581] handle sender defer: 4
+2024-02-19 20:16:46,100 INFO    SenderThread:5318 [sender.py:transition_state():585] send defer: 5
+2024-02-19 20:16:46,100 DEBUG   HandlerThread:5318 [handler.py:handle_request():144] handle_request: defer
+2024-02-19 20:16:46,100 INFO    HandlerThread:5318 [handler.py:handle_request_defer():170] handle defer: 5
+2024-02-19 20:16:46,100 DEBUG   SenderThread:5318 [sender.py:send():334] send: summary
+2024-02-19 20:16:46,100 INFO    SenderThread:5318 [sender.py:_save_file():1319] saving file wandb-summary.json with policy end
+2024-02-19 20:16:46,101 DEBUG   SenderThread:5318 [sender.py:send_request():361] send_request: defer
+2024-02-19 20:16:46,101 INFO    SenderThread:5318 [sender.py:send_request_defer():581] handle sender defer: 5
+2024-02-19 20:16:46,101 INFO    SenderThread:5318 [sender.py:transition_state():585] send defer: 6
+2024-02-19 20:16:46,101 DEBUG   HandlerThread:5318 [handler.py:handle_request():144] handle_request: defer
+2024-02-19 20:16:46,101 INFO    HandlerThread:5318 [handler.py:handle_request_defer():170] handle defer: 6
+2024-02-19 20:16:46,101 DEBUG   SenderThread:5318 [sender.py:send_request():361] send_request: defer
+2024-02-19 20:16:46,101 INFO    SenderThread:5318 [sender.py:send_request_defer():581] handle sender defer: 6
+2024-02-19 20:16:46,103 DEBUG   HandlerThread:5318 [handler.py:handle_request():144] handle_request: status_report
+2024-02-19 20:16:46,128 INFO    Thread-13 :5318 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/chaz/Project-Build-an-ML-Pipeline-Starter/src/data_check/wandb/run-20240219_201643-i23l943g/files/wandb-summary.json
+2024-02-19 20:16:46,240 INFO    SenderThread:5318 [sender.py:transition_state():585] send defer: 7
+2024-02-19 20:16:46,240 DEBUG   HandlerThread:5318 [handler.py:handle_request():144] handle_request: defer
+2024-02-19 20:16:46,240 INFO    HandlerThread:5318 [handler.py:handle_request_defer():170] handle defer: 7
+2024-02-19 20:16:46,240 DEBUG   SenderThread:5318 [sender.py:send_request():361] send_request: defer
+2024-02-19 20:16:46,240 INFO    SenderThread:5318 [sender.py:send_request_defer():581] handle sender defer: 7
+2024-02-19 20:16:46,240 INFO    SenderThread:5318 [sender.py:transition_state():585] send defer: 8
+2024-02-19 20:16:46,240 DEBUG   HandlerThread:5318 [handler.py:handle_request():144] handle_request: defer
+2024-02-19 20:16:46,240 INFO    HandlerThread:5318 [handler.py:handle_request_defer():170] handle defer: 8
+2024-02-19 20:16:46,241 DEBUG   SenderThread:5318 [sender.py:send_request():361] send_request: defer
+2024-02-19 20:16:46,241 INFO    SenderThread:5318 [sender.py:send_request_defer():581] handle sender defer: 8
+2024-02-19 20:16:46,241 INFO    SenderThread:5318 [sender.py:transition_state():585] send defer: 9
+2024-02-19 20:16:46,241 DEBUG   HandlerThread:5318 [handler.py:handle_request():144] handle_request: defer
+2024-02-19 20:16:46,241 INFO    HandlerThread:5318 [handler.py:handle_request_defer():170] handle defer: 9
+2024-02-19 20:16:46,241 DEBUG   SenderThread:5318 [sender.py:send_request():361] send_request: defer
+2024-02-19 20:16:46,241 INFO    SenderThread:5318 [sender.py:send_request_defer():581] handle sender defer: 9
+2024-02-19 20:16:46,241 INFO    SenderThread:5318 [dir_watcher.py:finish():362] shutting down directory watcher
+2024-02-19 20:16:47,095 DEBUG   HandlerThread:5318 [handler.py:handle_request():144] handle_request: poll_exit
+2024-02-19 20:16:47,129 INFO    Thread-13 :5318 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/chaz/Project-Build-an-ML-Pipeline-Starter/src/data_check/wandb/run-20240219_201643-i23l943g/files/config.yaml
+2024-02-19 20:16:47,129 INFO    SenderThread:5318 [dir_watcher.py:finish():392] scan: /home/chaz/Project-Build-an-ML-Pipeline-Starter/src/data_check/wandb/run-20240219_201643-i23l943g/files
+2024-02-19 20:16:47,129 INFO    SenderThread:5318 [dir_watcher.py:finish():406] scan save: /home/chaz/Project-Build-an-ML-Pipeline-Starter/src/data_check/wandb/run-20240219_201643-i23l943g/files/conda-environment.yaml conda-environment.yaml
+2024-02-19 20:16:47,129 INFO    SenderThread:5318 [dir_watcher.py:finish():406] scan save: /home/chaz/Project-Build-an-ML-Pipeline-Starter/src/data_check/wandb/run-20240219_201643-i23l943g/files/config.yaml config.yaml
+2024-02-19 20:16:47,130 INFO    SenderThread:5318 [dir_watcher.py:finish():406] scan save: /home/chaz/Project-Build-an-ML-Pipeline-Starter/src/data_check/wandb/run-20240219_201643-i23l943g/files/wandb-summary.json wandb-summary.json
+2024-02-19 20:16:47,130 INFO    SenderThread:5318 [dir_watcher.py:finish():406] scan save: /home/chaz/Project-Build-an-ML-Pipeline-Starter/src/data_check/wandb/run-20240219_201643-i23l943g/files/wandb-metadata.json wandb-metadata.json
+2024-02-19 20:16:47,130 INFO    SenderThread:5318 [dir_watcher.py:finish():406] scan save: /home/chaz/Project-Build-an-ML-Pipeline-Starter/src/data_check/wandb/run-20240219_201643-i23l943g/files/requirements.txt requirements.txt
+2024-02-19 20:16:47,132 INFO    SenderThread:5318 [sender.py:transition_state():585] send defer: 10
+2024-02-19 20:16:47,132 DEBUG   SenderThread:5318 [sender.py:send_request():361] send_request: poll_exit
+2024-02-19 20:16:47,132 DEBUG   HandlerThread:5318 [handler.py:handle_request():144] handle_request: defer
+2024-02-19 20:16:47,132 INFO    HandlerThread:5318 [handler.py:handle_request_defer():170] handle defer: 10
+2024-02-19 20:16:47,134 DEBUG   SenderThread:5318 [sender.py:send_request():361] send_request: defer
+2024-02-19 20:16:47,134 INFO    SenderThread:5318 [sender.py:send_request_defer():581] handle sender defer: 10
+2024-02-19 20:16:47,134 INFO    SenderThread:5318 [file_pusher.py:finish():160] shutting down file pusher
+2024-02-19 20:16:47,426 INFO    Thread-17 :5318 [upload_job.py:push():143] Uploaded file /home/chaz/Project-Build-an-ML-Pipeline-Starter/src/data_check/wandb/run-20240219_201643-i23l943g/files/conda-environment.yaml
+2024-02-19 20:16:47,427 INFO    Thread-19 :5318 [upload_job.py:push():143] Uploaded file /home/chaz/Project-Build-an-ML-Pipeline-Starter/src/data_check/wandb/run-20240219_201643-i23l943g/files/wandb-summary.json
+2024-02-19 20:16:47,430 INFO    Thread-20 :5318 [upload_job.py:push():143] Uploaded file /home/chaz/Project-Build-an-ML-Pipeline-Starter/src/data_check/wandb/run-20240219_201643-i23l943g/files/requirements.txt
+2024-02-19 20:16:47,448 INFO    Thread-18 :5318 [upload_job.py:push():143] Uploaded file /home/chaz/Project-Build-an-ML-Pipeline-Starter/src/data_check/wandb/run-20240219_201643-i23l943g/files/config.yaml
+2024-02-19 20:16:47,648 INFO    Thread-12 :5318 [sender.py:transition_state():585] send defer: 11
+2024-02-19 20:16:47,648 DEBUG   HandlerThread:5318 [handler.py:handle_request():144] handle_request: defer
+2024-02-19 20:16:47,648 INFO    HandlerThread:5318 [handler.py:handle_request_defer():170] handle defer: 11
+2024-02-19 20:16:47,649 DEBUG   SenderThread:5318 [sender.py:send_request():361] send_request: defer
+2024-02-19 20:16:47,649 INFO    SenderThread:5318 [sender.py:send_request_defer():581] handle sender defer: 11
+2024-02-19 20:16:47,649 INFO    SenderThread:5318 [file_pusher.py:join():165] waiting for file pusher
+2024-02-19 20:16:47,649 INFO    SenderThread:5318 [sender.py:transition_state():585] send defer: 12
+2024-02-19 20:16:47,649 DEBUG   HandlerThread:5318 [handler.py:handle_request():144] handle_request: defer
+2024-02-19 20:16:47,649 INFO    HandlerThread:5318 [handler.py:handle_request_defer():170] handle defer: 12
+2024-02-19 20:16:47,649 DEBUG   SenderThread:5318 [sender.py:send_request():361] send_request: defer
+2024-02-19 20:16:47,649 INFO    SenderThread:5318 [sender.py:send_request_defer():581] handle sender defer: 12
+2024-02-19 20:16:47,711 INFO    SenderThread:5318 [sender.py:transition_state():585] send defer: 13
+2024-02-19 20:16:47,711 DEBUG   HandlerThread:5318 [handler.py:handle_request():144] handle_request: defer
+2024-02-19 20:16:47,711 INFO    HandlerThread:5318 [handler.py:handle_request_defer():170] handle defer: 13
+2024-02-19 20:16:47,711 DEBUG   SenderThread:5318 [sender.py:send_request():361] send_request: defer
+2024-02-19 20:16:47,711 INFO    SenderThread:5318 [sender.py:send_request_defer():581] handle sender defer: 13
+2024-02-19 20:16:47,711 INFO    SenderThread:5318 [sender.py:transition_state():585] send defer: 14
+2024-02-19 20:16:47,712 DEBUG   HandlerThread:5318 [handler.py:handle_request():144] handle_request: defer
+2024-02-19 20:16:47,712 INFO    HandlerThread:5318 [handler.py:handle_request_defer():170] handle defer: 14
+2024-02-19 20:16:47,712 DEBUG   SenderThread:5318 [sender.py:send():334] send: final
+2024-02-19 20:16:47,712 DEBUG   SenderThread:5318 [sender.py:send():334] send: footer
+2024-02-19 20:16:47,712 DEBUG   SenderThread:5318 [sender.py:send_request():361] send_request: defer
+2024-02-19 20:16:47,712 INFO    SenderThread:5318 [sender.py:send_request_defer():581] handle sender defer: 14
+2024-02-19 20:16:47,712 DEBUG   HandlerThread:5318 [handler.py:handle_request():144] handle_request: poll_exit
+2024-02-19 20:16:47,713 DEBUG   SenderThread:5318 [sender.py:send_request():361] send_request: poll_exit
+2024-02-19 20:16:47,713 DEBUG   HandlerThread:5318 [handler.py:handle_request():144] handle_request: poll_exit
+2024-02-19 20:16:47,714 DEBUG   HandlerThread:5318 [handler.py:handle_request():144] handle_request: server_info
+2024-02-19 20:16:47,714 DEBUG   SenderThread:5318 [sender.py:send_request():361] send_request: poll_exit
+2024-02-19 20:16:47,714 DEBUG   SenderThread:5318 [sender.py:send_request():361] send_request: server_info
+2024-02-19 20:16:47,716 DEBUG   HandlerThread:5318 [handler.py:handle_request():144] handle_request: get_summary
+2024-02-19 20:16:47,716 DEBUG   HandlerThread:5318 [handler.py:handle_request():144] handle_request: sampled_history
+2024-02-19 20:16:47,913 INFO    MainThread:5318 [wandb_run.py:_footer_history_summary_info():3427] rendering history
+2024-02-19 20:16:47,913 INFO    MainThread:5318 [wandb_run.py:_footer_history_summary_info():3459] rendering summary
+2024-02-19 20:16:47,913 INFO    MainThread:5318 [wandb_run.py:_footer_sync_info():3383] logging synced files
+2024-02-19 20:16:47,913 DEBUG   HandlerThread:5318 [handler.py:handle_request():144] handle_request: shutdown
+2024-02-19 20:16:47,913 INFO    HandlerThread:5318 [handler.py:finish():841] shutting down handler
+2024-02-19 20:16:48,715 INFO    WriterThread:5318 [datastore.py:close():299] close: /home/chaz/Project-Build-an-ML-Pipeline-Starter/src/data_check/wandb/run-20240219_201643-i23l943g/run-i23l943g.wandb
+2024-02-19 20:16:48,913 INFO    SenderThread:5318 [sender.py:finish():1491] shutting down sender
+2024-02-19 20:16:48,913 INFO    SenderThread:5318 [file_pusher.py:finish():160] shutting down file pusher
+2024-02-19 20:16:48,913 INFO    SenderThread:5318 [file_pusher.py:join():165] waiting for file pusher

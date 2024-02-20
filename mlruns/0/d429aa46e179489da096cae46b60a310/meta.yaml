@@ -1,0 +1,15 @@
+artifact_uri: file:///home/chaz/Project-Build-an-ML-Pipeline-Starter/mlruns/0/d429aa46e179489da096cae46b60a310/artifacts
+end_time: 1708436919500
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d429aa46e179489da096cae46b60a310
+run_name: able-robin-106
+run_uuid: d429aa46e179489da096cae46b60a310
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708436838951
+status: 3
+tags: []
+user_id: chaz

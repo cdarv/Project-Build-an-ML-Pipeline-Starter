@@ -1,0 +1,15 @@
+artifact_uri: file:///home/chaz/Project-Build-an-ML-Pipeline-Starter/mlruns/0/378ebb714c1747db96f6666eb7463a67/artifacts
+end_time: 1708376379898
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 378ebb714c1747db96f6666eb7463a67
+run_name: inquisitive-eel-652
+run_uuid: 378ebb714c1747db96f6666eb7463a67
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708376343313
+status: 4
+tags: []
+user_id: chaz

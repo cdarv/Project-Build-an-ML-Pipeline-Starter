@@ -1,0 +1,15 @@
+artifact_uri: file:///home/chaz/Project-Build-an-ML-Pipeline-Starter/mlruns/0/0d3b47e06255499eaff1e8b1b3600ced/artifacts
+end_time: 1708436001998
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0d3b47e06255499eaff1e8b1b3600ced
+run_name: receptive-dove-251
+run_uuid: 0d3b47e06255499eaff1e8b1b3600ced
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708435986288
+status: 4
+tags: []
+user_id: chaz

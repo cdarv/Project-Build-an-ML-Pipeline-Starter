@@ -1,0 +1,15 @@
+artifact_uri: file:///home/chaz/Project-Build-an-ML-Pipeline-Starter/mlruns/0/47e5c850e26a4f6da4760f771f17b546/artifacts
+end_time: 1708434841281
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 47e5c850e26a4f6da4760f771f17b546
+run_name: rare-auk-598
+run_uuid: 47e5c850e26a4f6da4760f771f17b546
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708434840269
+status: 4
+tags: []
+user_id: chaz

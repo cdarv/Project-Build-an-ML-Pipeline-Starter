@@ -1,0 +1,15 @@
+artifact_uri: file:///home/chaz/Project-Build-an-ML-Pipeline-Starter/mlruns/0/58e5428909c7479a847a3c079af4d609/artifacts
+end_time: 1708441439408
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 58e5428909c7479a847a3c079af4d609
+run_name: amazing-fox-770
+run_uuid: 58e5428909c7479a847a3c079af4d609
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708441368508
+status: 4
+tags: []
+user_id: chaz

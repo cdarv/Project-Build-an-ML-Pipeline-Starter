@@ -1,0 +1,15 @@
+artifact_uri: file:///home/chaz/Project-Build-an-ML-Pipeline-Starter/mlruns/0/e046c528bf7a4b40b28cf94d97c75b66/artifacts
+end_time: 1708432553319
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e046c528bf7a4b40b28cf94d97c75b66
+run_name: judicious-snipe-404
+run_uuid: e046c528bf7a4b40b28cf94d97c75b66
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708432551074
+status: 3
+tags: []
+user_id: chaz

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/chaz/Project-Build-an-ML-Pipeline-Starter/mlruns/0/9d98c1c048194b3db0fdc5ba0d507cf7/artifacts
+end_time: 1708436838834
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9d98c1c048194b3db0fdc5ba0d507cf7
+run_name: painted-zebra-208
+run_uuid: 9d98c1c048194b3db0fdc5ba0d507cf7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708436790513
+status: 3
+tags: []
+user_id: chaz

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/chaz/Project-Build-an-ML-Pipeline-Starter/mlruns/0/eafebf7c5d8f440bb928f1d51cb634e1/artifacts
+end_time: 1708435019871
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: eafebf7c5d8f440bb928f1d51cb634e1
+run_name: worried-shark-277
+run_uuid: eafebf7c5d8f440bb928f1d51cb634e1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708435017830
+status: 3
+tags: []
+user_id: chaz

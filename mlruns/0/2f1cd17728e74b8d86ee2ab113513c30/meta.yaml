@@ -1,0 +1,15 @@
+artifact_uri: file:///home/chaz/Project-Build-an-ML-Pipeline-Starter/mlruns/0/2f1cd17728e74b8d86ee2ab113513c30/artifacts
+end_time: 1708398660468
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2f1cd17728e74b8d86ee2ab113513c30
+run_name: powerful-fawn-552
+run_uuid: 2f1cd17728e74b8d86ee2ab113513c30
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708398658439
+status: 3
+tags: []
+user_id: chaz

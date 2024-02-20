@@ -1,0 +1,15 @@
+artifact_uri: file:///home/chaz/Project-Build-an-ML-Pipeline-Starter/mlruns/0/3391930d495544caa20d570c9cd3519f/artifacts
+end_time: 1708401775104
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3391930d495544caa20d570c9cd3519f
+run_name: selective-hog-261
+run_uuid: 3391930d495544caa20d570c9cd3519f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708401766329
+status: 3
+tags: []
+user_id: chaz

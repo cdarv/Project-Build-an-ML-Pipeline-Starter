@@ -1,0 +1,15 @@
+artifact_uri: file:///home/chaz/Project-Build-an-ML-Pipeline-Starter/mlruns/0/6247e90cac8b40179c1f5cd908287a0b/artifacts
+end_time: 1708436652196
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6247e90cac8b40179c1f5cd908287a0b
+run_name: languid-grouse-16
+run_uuid: 6247e90cac8b40179c1f5cd908287a0b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708436589742
+status: 3
+tags: []
+user_id: chaz

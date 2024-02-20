@@ -1,0 +1,15 @@
+artifact_uri: file:///home/chaz/Project-Build-an-ML-Pipeline-Starter/mlruns/0/cca64ebd1e164e0494f488b5bff8317e/artifacts
+end_time: 1708391809220
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cca64ebd1e164e0494f488b5bff8317e
+run_name: sedate-roo-793
+run_uuid: cca64ebd1e164e0494f488b5bff8317e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708391750010
+status: 3
+tags: []
+user_id: chaz

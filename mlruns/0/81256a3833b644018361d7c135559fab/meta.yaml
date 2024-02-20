@@ -1,0 +1,15 @@
+artifact_uri: file:///home/chaz/Project-Build-an-ML-Pipeline-Starter/mlruns/0/81256a3833b644018361d7c135559fab/artifacts
+end_time: 1708436790393
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 81256a3833b644018361d7c135559fab
+run_name: efficient-lark-654
+run_uuid: 81256a3833b644018361d7c135559fab
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708436757075
+status: 3
+tags: []
+user_id: chaz

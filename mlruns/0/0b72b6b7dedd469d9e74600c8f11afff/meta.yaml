@@ -1,0 +1,15 @@
+artifact_uri: file:///home/chaz/Project-Build-an-ML-Pipeline-Starter/mlruns/0/0b72b6b7dedd469d9e74600c8f11afff/artifacts
+end_time: 1708401766318
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0b72b6b7dedd469d9e74600c8f11afff
+run_name: adventurous-worm-369
+run_uuid: 0b72b6b7dedd469d9e74600c8f11afff
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708401756519
+status: 3
+tags: []
+user_id: chaz

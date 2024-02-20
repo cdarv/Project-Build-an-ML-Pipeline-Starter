@@ -1,0 +1,15 @@
+artifact_uri: file:///home/chaz/Project-Build-an-ML-Pipeline-Starter/mlruns/0/d9a5f6eef4ff495e86d96a4c625e416f/artifacts
+end_time: 1708376379697
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d9a5f6eef4ff495e86d96a4c625e416f
+run_name: orderly-sheep-876
+run_uuid: d9a5f6eef4ff495e86d96a4c625e416f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708376345183
+status: 4
+tags: []
+user_id: chaz

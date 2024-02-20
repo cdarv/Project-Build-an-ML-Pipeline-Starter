@@ -1,0 +1,15 @@
+artifact_uri: file:///home/chaz/Project-Build-an-ML-Pipeline-Starter/mlruns/0/931079cf6aa249908c05f3a2810fdda4/artifacts
+end_time: 1708441530181
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 931079cf6aa249908c05f3a2810fdda4
+run_name: bemused-lynx-246
+run_uuid: 931079cf6aa249908c05f3a2810fdda4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708441510897
+status: 3
+tags: []
+user_id: chaz

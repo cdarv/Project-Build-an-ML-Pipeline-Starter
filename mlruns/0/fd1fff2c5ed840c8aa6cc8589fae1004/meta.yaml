@@ -1,0 +1,15 @@
+artifact_uri: file:///home/chaz/Project-Build-an-ML-Pipeline-Starter/mlruns/0/fd1fff2c5ed840c8aa6cc8589fae1004/artifacts
+end_time: 1708400516664
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fd1fff2c5ed840c8aa6cc8589fae1004
+run_name: peaceful-koi-81
+run_uuid: fd1fff2c5ed840c8aa6cc8589fae1004
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708400404919
+status: 4
+tags: []
+user_id: chaz

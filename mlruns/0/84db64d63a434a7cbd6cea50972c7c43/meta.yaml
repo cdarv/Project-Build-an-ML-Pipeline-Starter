@@ -1,0 +1,15 @@
+artifact_uri: file:///home/chaz/Project-Build-an-ML-Pipeline-Starter/mlruns/0/84db64d63a434a7cbd6cea50972c7c43/artifacts
+end_time: 1708436652343
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 84db64d63a434a7cbd6cea50972c7c43
+run_name: fearless-koi-169
+run_uuid: 84db64d63a434a7cbd6cea50972c7c43
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708436587769
+status: 3
+tags: []
+user_id: chaz

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/chaz/Project-Build-an-ML-Pipeline-Starter/mlruns/0/811fc02115b842c78b03c258bdf0cce5/artifacts
+end_time: 1708391611035
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 811fc02115b842c78b03c258bdf0cce5
+run_name: serious-perch-957
+run_uuid: 811fc02115b842c78b03c258bdf0cce5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708391608605
+status: 4
+tags: []
+user_id: chaz

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/chaz/Project-Build-an-ML-Pipeline-Starter/mlruns/0/2f3dd3388a374712bcbc7877dd162a74/artifacts
+end_time: 1708437065998
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2f3dd3388a374712bcbc7877dd162a74
+run_name: suave-duck-219
+run_uuid: 2f3dd3388a374712bcbc7877dd162a74
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708436919617
+status: 3
+tags: []
+user_id: chaz

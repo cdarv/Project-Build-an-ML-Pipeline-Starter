@@ -1,0 +1,15 @@
+artifact_uri: file:///home/chaz/Project-Build-an-ML-Pipeline-Starter/mlruns/0/f80a4758058d48d9945b2346aaa6a332/artifacts
+end_time: 1708435481531
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f80a4758058d48d9945b2346aaa6a332
+run_name: bittersweet-mole-333
+run_uuid: f80a4758058d48d9945b2346aaa6a332
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708435348422
+status: 3
+tags: []
+user_id: chaz

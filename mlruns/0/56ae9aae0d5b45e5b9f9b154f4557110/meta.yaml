@@ -1,0 +1,15 @@
+artifact_uri: file:///home/chaz/Project-Build-an-ML-Pipeline-Starter/mlruns/0/56ae9aae0d5b45e5b9f9b154f4557110/artifacts
+end_time: 1708401856170
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 56ae9aae0d5b45e5b9f9b154f4557110
+run_name: lyrical-bug-112
+run_uuid: 56ae9aae0d5b45e5b9f9b154f4557110
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708401842387
+status: 4
+tags: []
+user_id: chaz

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/chaz/Project-Build-an-ML-Pipeline-Starter/mlruns/0/783c462568d7469fa2de40a4bb96cd8a/artifacts
+end_time: 1708374447702
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 783c462568d7469fa2de40a4bb96cd8a
+run_name: bustling-mare-860
+run_uuid: 783c462568d7469fa2de40a4bb96cd8a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708374312203
+status: 3
+tags: []
+user_id: chaz

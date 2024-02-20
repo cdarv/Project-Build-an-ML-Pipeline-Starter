@@ -1,0 +1,15 @@
+artifact_uri: file:///home/chaz/Project-Build-an-ML-Pipeline-Starter/mlruns/0/ad552097ad57415a8574ec25f98d5d39/artifacts
+end_time: 1708376669177
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ad552097ad57415a8574ec25f98d5d39
+run_name: bemused-goose-714
+run_uuid: ad552097ad57415a8574ec25f98d5d39
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708376657010
+status: 3
+tags: []
+user_id: chaz

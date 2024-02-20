@@ -1,0 +1,15 @@
+artifact_uri: file:///home/chaz/Project-Build-an-ML-Pipeline-Starter/mlruns/0/e72234ddc28749628a2fc0fdc07ca1a3/artifacts
+end_time: 1708400516463
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e72234ddc28749628a2fc0fdc07ca1a3
+run_name: adorable-owl-484
+run_uuid: e72234ddc28749628a2fc0fdc07ca1a3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708400407204
+status: 4
+tags: []
+user_id: chaz

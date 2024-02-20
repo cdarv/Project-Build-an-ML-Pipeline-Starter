@@ -1,0 +1,15 @@
+artifact_uri: file:///home/chaz/Project-Build-an-ML-Pipeline-Starter/mlruns/0/842f47985b4c4f0094092771cd2944cd/artifacts
+end_time: 1708436407374
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 842f47985b4c4f0094092771cd2944cd
+run_name: unique-zebra-246
+run_uuid: 842f47985b4c4f0094092771cd2944cd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708436392136
+status: 4
+tags: []
+user_id: chaz

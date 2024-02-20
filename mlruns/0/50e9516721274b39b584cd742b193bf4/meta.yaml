@@ -1,0 +1,15 @@
+artifact_uri: file:///home/chaz/Project-Build-an-ML-Pipeline-Starter/mlruns/0/50e9516721274b39b584cd742b193bf4/artifacts
+end_time: 1708403646717
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 50e9516721274b39b584cd742b193bf4
+run_name: bright-goat-545
+run_uuid: 50e9516721274b39b584cd742b193bf4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708403644708
+status: 3
+tags: []
+user_id: chaz
