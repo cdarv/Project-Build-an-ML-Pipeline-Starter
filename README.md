@@ -1,5 +1,7 @@
-# W&B Repo
+# W&B Repo and Github Link
 https://wandb.ai/chazdarvish/nyc_airbnb
+
+https://github.com/cdarv/Project-Build-an-ML-Pipeline-Starter
 
 # Build an ML Pipeline for Short-Term Rental Prices in NYC
 You are working for a property management company renting rooms and properties for short periods of 
